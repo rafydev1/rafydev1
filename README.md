@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **RYSEN.MP**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently working on **React.js** and **TypeScript**
 
 - 📫 How to reach me **stancurafaeloop1@gmail.com**
 
