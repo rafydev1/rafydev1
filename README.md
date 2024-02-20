@@ -17,9 +17,7 @@ src="https://img.shields.io/github/followers/rafydev1?logo=github&style=for-the-
    </a>
 </p>
 
-<p align="start">
-      <img src="[https://lanyard.cnrad.dev/api/323212107741003779](https://spotify-github-profile.vercel.app/api/view?uid=vali.89stancu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=7f2e85&bar_color_cover=true))" alt="Discord Presence" align="center">
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vali.89stancu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=7f2e85&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### Skills
 
