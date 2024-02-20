@@ -11,6 +11,12 @@ Full-stack Developer
 
 <a href="https://www.github.com/rafydev1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rafydev1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="center">
+   <a href="https://discord.com/users/773576280150900749" target="_blank" rel="nofollow">
+      <img src="https://lanyard.cnrad.dev/api/773576280150900749" alt="Discord Presence" align="center">
+   </a>
+</p>
+
 
 ### Skills
 
