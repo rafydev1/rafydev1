@@ -5,7 +5,7 @@ Full-stack Developer
 --------------------
 
 * 🌍  I'm based in Romania
-* 🖥️  Contact me at @rafy112.0
+* 🖥️  Contact me on discord @rafy112.0
 * ✉️  You can contact me at [stancurafaeloop1@gmail.com](mailto:stancurafaeloop1@gmail.com)
 * 🚀  I'm currently working on [AtherixMP](http://github.com/AtherixRP)
 
